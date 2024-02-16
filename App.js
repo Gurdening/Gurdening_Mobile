@@ -28,9 +28,9 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
-    backgroundColor: '#D2D2D2' // 이 색상은 SafeAreaView의 배경색을 설정합니다.
+    backgroundColor: '#D2D2D2'
   },
   webView: {
-    flex: 1 // WebView가 전체 화면을 차지하도록 설정합니다.
+    flex: 1
   },
 });
